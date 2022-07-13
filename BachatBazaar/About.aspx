@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Test GIT Dhatur
+            Test GIT Dhatur, Guruu Purnima ki hardik shubh kamnaye
         </div>
     </form>
 </body>
