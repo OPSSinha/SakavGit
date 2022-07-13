@@ -116,6 +116,8 @@ alert("Error: " + error);
                           abc@gmail.com &nbsp;&nbsp; <select id="drpSearch" style ="height:30px; width :260px;margin-top:20px" name="agileinfo_search" placeholder="How can we help you today?" required="" onchange="location = this.value;">
                         <option value="">Front Page Items</option>
                         <%=SetAllItems() %>
+
+
                        
                     </select>
                        
